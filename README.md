@@ -74,8 +74,11 @@ As an **MSME-Registered** and **ISO-Certified** institute, we are committed to d
 # 📞 Contact Details
 
 🌐 Website: https://www.techsparkacademy.in
+
 📍 Location: Arakkonam, Tamil Nadu, India
+
 📞 Phone: +91 77087 77890
+
 📧 Email: [info@techsparkacademy.in](mailto:info@techsparkacademy.in)
 
 ✨ *At Tech Spark Academy, we inspire innovation, creativity, and technical excellence to help learners build successful technology-driven careers.*
